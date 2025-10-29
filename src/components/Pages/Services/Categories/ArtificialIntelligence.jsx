@@ -1,19 +1,17 @@
-import React from "react";
-
-const About = () => {
+const ArtificialIntelligence = () => {
   return (
     <div
-      name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white pt-24"
+      name='artificial-intelligence'
+      className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white pt-24'
     >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+      <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
+        <div className='pb-8'>
+          <p className='text-4xl font-bold inline border-b-4 border-gray-500'>
             About
           </p>
         </div>
 
-        <p className="pt-10">
+        <p className='pt-10'>
           Hello, my name is Neyan Saif and I am a software engineer with 2 years
           of experience in web development. Throughout my career, I have gained
           expertise in a variety of technologies, including HTML, CSS,
@@ -41,7 +39,7 @@ const About = () => {
         </p>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default About;
+export default ArtificialIntelligence

@@ -1,7 +1,7 @@
 import React from "react";
-import ecommerce from "../Images/portfolio/ecommerce.jpg";
-import fitness from "../Images/portfolio/fitness.jpg";
-import quiz from "../Images/portfolio/quiz.jpg";
+import ecommerce from "../../../Images/portfolio/ecommerce.jpg";
+import fitness from "../../../Images/portfolio/fitness.jpg";
+import quiz from "../../../Images/portfolio/quiz.jpg";
 
 const Portfolio = () => {
   const portfolios = [
